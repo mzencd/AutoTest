@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuites name="vitest tests" tests="10" failures="0" errors="0" time="2.335">
-    <testsuite name="src/example.test.js" timestamp="2024-12-26T08:44:04.801Z" hostname="PPDEV" tests="10" failures="0" errors="0" skipped="0" time="0.0029951">
-        <testcase classname="src/example.test.js" name="adds 1 + 2 to equal 3" time="0.0009053">
+<testsuites name="vitest tests" tests="10" failures="0" errors="0" time="2.055">
+    <testsuite name="src/example.test.js" timestamp="2024-12-26T11:26:25.819Z" hostname="PPDEV" tests="10" failures="0" errors="0" skipped="0" time="0.0029183">
+        <testcase classname="src/example.test.js" name="adds 1 + 2 to equal 3" time="0.0008987">
         </testcase>
-        <testcase classname="src/example.test.js" name="adds 2 + 3 to equal 5" time="0.000199">
+        <testcase classname="src/example.test.js" name="adds 2 + 3 to equal 5" time="0.0002004">
         </testcase>
-        <testcase classname="src/example.test.js" name="adds 3 + 4 to equal 7" time="0.0000996">
+        <testcase classname="src/example.test.js" name="adds 3 + 4 to equal 7" time="0.0000966">
         </testcase>
-        <testcase classname="src/example.test.js" name="adds 4 + 5 to equal 9" time="0.0001499">
+        <testcase classname="src/example.test.js" name="adds 4 + 5 to equal 9" time="0.0001505">
         </testcase>
-        <testcase classname="src/example.test.js" name="adds 5 + 6 to equal 11" time="0.0001011">
+        <testcase classname="src/example.test.js" name="adds 5 + 6 to equal 11" time="0.0001006">
         </testcase>
-        <testcase classname="src/example.test.js" name="adds 6 + 7 to equal 13" time="0.0001131">
+        <testcase classname="src/example.test.js" name="adds 6 + 7 to equal 13" time="0.0001069">
         </testcase>
-        <testcase classname="src/example.test.js" name="adds 7 + 8 to equal 15" time="0.0000708">
+        <testcase classname="src/example.test.js" name="adds 7 + 8 to equal 15" time="0.0000741">
         </testcase>
-        <testcase classname="src/example.test.js" name="adds 8 + 9 to equal 17" time="0.0000609">
+        <testcase classname="src/example.test.js" name="adds 8 + 9 to equal 17" time="0.0000675">
         </testcase>
-        <testcase classname="src/example.test.js" name="adds 9 + 10 to equal 19" time="0.0001865">
+        <testcase classname="src/example.test.js" name="adds 9 + 10 to equal 19" time="0.0001955">
         </testcase>
-        <testcase classname="src/example.test.js" name="adds 10 + 11 to equal 21" time="0.0001111">
+        <testcase classname="src/example.test.js" name="adds 10 + 11 to equal 21" time="0.000099">
         </testcase>
     </testsuite>
 </testsuites>
