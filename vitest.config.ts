@@ -6,8 +6,7 @@ export default defineConfig({
 
     // outputFile: {
     //     junit: './html/junit-report.xml'
-    //   }
-    
+    //   } 
   }
 })
 
